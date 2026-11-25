@@ -1,4 +1,4 @@
-# Source-to-HTML (C Syntax Highlighter)
+# Source-to-HTML  (C Syntax Highlighter)
 
 A lightweight, pure C command-line utility that reads a C source file, tokenizes it using a custom lexical analyzer, escapes HTML special characters, and generates a self-contained, syntax-highlighted HTML document styled with a **VS Code Dark+** theme. Built completely from scratch with zero external dependencies (no Flex, Lex, or JavaScript required).
 
